@@ -1,0 +1,309 @@
+body {
+    background-color:rgb(239, 190, 14);
+    background-image: url('img_girl.jpg');
+  }
+  
+  h1{
+  color:rgb(0, 0, 0);
+  font-family: 'Nova Round', cursive;
+  font-weight: normal;
+  font-size: 90px;
+  margin-left: 200px;
+  
+  }
+  .newark{
+    font-size: 80px; 
+    position: absolute; 
+    bottom:-10px;
+    right:-400px; 
+  }
+  .containerdk {
+    position: relative;
+    width: 50%;
+    margin-left:150px ;
+  }
+  
+  .imagedk {
+    display: block;
+    width: 50%;
+    height: auto;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
+  .overlaydk {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 90%;
+    width: 50%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgb(0, 0, 0);
+
+  }
+  
+  .containerdk:hover .overlaydk {
+    opacity: 1;
+  }
+  
+  .textdk {
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    text-align: center;
+    max-width: 100px;
+    font-family: 'Nova Round', cursive;
+  }
+
+  .videodk{
+    position:absolute;
+    left: 500px;
+    top:20px;
+    border: 5px solid rgb(0, 0, 0);
+  border-radius: 4px;
+  padding: 5px;
+  }
+
+
+.container7 {
+    position: absolute;
+    width: 100%;
+    margin-left:0px ;
+
+  }
+  
+  .image7 {
+    display: block;
+    width: 50%;
+    height: auto;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
+  .overlay7 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 90%;
+    width: 50%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .container7:hover .overlay7 {
+    opacity: 1;
+  }
+  
+  .text7 {
+    color: rgb(211, 0, 0);
+    font-size: 80px;
+    position: absolute;
+    text-align: center;
+    max-width: 100px;
+    font-family: 'Nova Round', cursive;
+  }
+
+  .video7{
+    position:absolute;
+    left: 520px;
+    top:100px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 5px;
+  }
+
+
+
+  
+.containergb {
+    position: absolute;
+    width: 100%;
+    margin-left:0px ;
+
+  }
+  
+  .imagegb {
+    display: block;
+    width: 50%;
+    height: auto;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
+  .overlaygb {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 90%;
+    width: 50%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .containergb:hover .overlaygb {
+    opacity: 1;
+  }
+  
+  .textgb {
+    color: rgb(255, 255, 0);
+    font-size: 60px;
+    position: absolute;
+    text-align: center;
+    max-width: 100px;
+    font-family: 'Nova Round', cursive;
+    margin-top: 200px;
+  }
+
+  .videogb{
+    position:absolute;
+    left: 520px;
+    top:100px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 5px;
+  }
+
+.newyork{
+    font-size: 80px; 
+    position: absolute; 
+    bottom:500px;
+    right:-450px;   
+}
+
+
+
+
+  
+.containeravg {
+    position: absolute;
+    width: 100%;
+    margin-left:0px ;
+
+  }
+  
+  .imageavg {
+    display: block;
+    width: 50%;
+    height: auto;
+    border: 5px solid rgb(0, 0, 0);
+  border-radius: 4px;
+  padding: 5px;
+ 
+  }
+  
+  .overlayavg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 90%;
+    width: 50%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .containeravg:hover .overlayavg {
+    opacity: 1;
+  }
+  
+  .textavg {
+    color: rgb(255, 255, 0);
+    font-size: 80px;
+    position: absolute;
+    text-align: center;
+    max-width: 100px;
+    font-family: 'Nova Round', cursive;
+    margin-top: 130px;
+  }
+
+  .videoavg{
+    position:absolute;
+    left: 520px;
+    top:100px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 5px;
+  }
+  .la{
+    font-size: 70px; 
+    position: absolute; 
+    bottom:500px;
+    right:-550px;   
+}
+
+
+
+.containercm {
+    position: absolute;
+    width: 100%;
+    margin-left:0px ;
+
+  }
+  
+  .imagecm {
+    display: block;
+    width: 50%;
+    height: auto;
+    border: 5px solid rgb(0, 0, 0);
+  border-radius: 4px;
+  padding: 5px;
+ 
+  }
+  
+  .overlaycm {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 90%;
+    width: 50%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .containercm:hover .overlaycm {
+    opacity: 1;
+  }
+  
+  .textcm {
+    color: rgb(17, 92, 242);
+    font-size: 80px;
+    position: absolute;
+    text-align: center;
+    max-width: 100px;
+    font-family: 'Nova Round', cursive;
+    margin-top: 130px;
+  }
+
+  .videocm{
+    position:absolute;
+    left: 520px;
+    top:100px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 5px;
+  }
+  .vg{
+    font-size: 70px; 
+    position: absolute; 
+    bottom:450px;
+    right:-350px;   
+}
+
+  
